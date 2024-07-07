@@ -1,5 +1,7 @@
 # PhyBench
 
+Since Github has a limit on file size, we upload the complete dataset to [HuggingFace](https://huggingface.co/datasets/PhyBench/PhyBench/tree/main)
+
 **PhyBench: A Physical Commonsense Benchmark for Evaluating Text-to-Image Models**
 
 
